@@ -54,12 +54,12 @@
 
 | 功能/概念	| 动物项圈 | 动物衣服 |
 | --------------- | --------------- | --------------- |
-| 定位 |  | [衣服](http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4) |  |
-|  体温监测 	|  |  |  |
-|  心率检测 	|  |	| |
+| 定位 | [项圈定位](http://m.qpic.cn/psc?/V10g6WxY2ZUSCt/TmEUgtj9EK6.7V8ajmQrEF8YGrkylDVoUOi.i.GVzZj.Sqi70LDCp*n9h0lP4jjyJB7azxkq5WlEQUYtjNZlrpxgQJY5tY6.g2UY3lVaiqE!/b&bo=AQYACAEGAAgBGT4!&rf=viewer_4) | [衣服定位](http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4)| 
+|  体温监测 	| [项圈体温监测](http://m.qpic.cn/psc?/V10g6WxY2ZUSCt/TmEUgtj9EK6.7V8ajmQrEF8YGrkylDVoUOi.i.GVzZj.Sqi70LDCp*n9h0lP4jjyJB7azxkq5WlEQUYtjNZlrpxgQJY5tY6.g2UY3lVaiqE!/b&bo=AQYACAEGAAgBGT4!&rf=viewer_4) | [衣服体温监测](http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4) |
+|  心率检测 	| [项圈心率监测](http://m.qpic.cn/psc?/V10g6WxY2ZUSCt/TmEUgtj9EK6.7V8ajmQrEF8YGrkylDVoUOi.i.GVzZj.Sqi70LDCp*n9h0lP4jjyJB7azxkq5WlEQUYtjNZlrpxgQJY5tY6.g2UY3lVaiqE!/b&bo=AQYACAEGAAgBGT4!&rf=viewer_4) | [衣服心率检测](http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4)	|
 |  数据传输 	| |	   |  |
 
-[衣服](http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4)
+[效果图](http://m.qpic.cn/psc?/V10g6WxY2ZUSCt/TmEUgtj9EK6.7V8ajmQrEPR11fjkMoc4YdD*hSwi6VQo6mKpRGakPy9JMY*Zvu1CCvKdhmJAyDbZl4T.eRETEzbTHP8gjTosrn*9GdG0MXA!/b&bo=QAZUCIUGsAgDeX0!&rf=viewer_4)
 
 6.概念评估
 | 技术指标	 |Demand	 | Wish |

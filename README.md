@@ -54,10 +54,12 @@
 
 | 功能/概念	| 动物项圈 | 动物衣服 |
 | --------------- | --------------- | --------------- |
-| 定位 |  |  | [衣服](http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4) |
+| 定位 |  |  |  |
 |  体温监测 	|  |  |  |
 |  心率检测 	|  |	| |
 |  数据传输 	| |	   |  |
+
+[衣服]http://a1.qpic.cn/psc?/V10g6WxY2ZUSCt/bqQfVz5yrrGYSXMvKr.cqYGHI9d3ABTgttll7GVjuA5hiIWbshYvDslAFf6cVoxKjlswk9tpC3ja58ykuu*7YmlwOmUZZKNdDkEOSwsiJb0!/b&ek=1&kp=1&pt=0&bo=AQYACAEGAAgBGT4!&tl=3&vuin=693763009&tm=1607317200&sce=60-4-3&rf=viewer_4)
 
 6.概念评估
 | 技术指标	 |Demand	 | Wish |

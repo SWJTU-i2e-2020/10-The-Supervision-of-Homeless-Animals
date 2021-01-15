@@ -1,5 +1,11 @@
 # 项目名称和作者
-> 项目的名称：流浪动物保护监测(The Supervision of Homeless Animals for Production)  作者：汪世季(Shiji-Wang)，沈之航(ZHShen7)，雷芸嘉(chlorine27)，何彪瑞(hbr-111)，王新雨(Xinyu-Wang28)，刘博雅(Chenanyee)
+> 项目的名称：流浪动物保护监测(The Supervision of Homeless Animals for Production)
+
+> 作者：汪世季(Shiji-Wang)，沈之航(ZHShen7)，雷芸嘉(chlorine27)，何彪瑞(hbr-111)，王新雨(Xinyu-Wang28)，刘博雅(Chenanyee)
+
+# 问题定义
+> 本次设计旨在监测这些流浪动物们的位置及其生命体征，例如体温、心率等，当流浪动物身体出现状况时，方便一些保护它们的人或组织更方便地进行救助。
+
 
 1.需求分析
 
